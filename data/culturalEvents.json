@@ -1,0 +1,1096 @@
+[
+    {
+      "monasteryId": "6926a7c2bed139586fbb2ac9",
+      "eventName": "Kagyed Dance (Kagyed Cham)",
+      "category": "festival",
+      "startDate": "28th day of the 10th Tibetan Month",
+      "endDate": "29th day of the 10th Tibetan Month",
+      "time": "09:00 AM – 4:00 PM",
+      "duration": "2 Days",
+      "location": "Rumtek Dharma Chakra Centre, Sikkim",
+      "description": "The Kagyed Dance at Rumtek Monastery is a major year-end masked-dance ritual symbolizing the destruction of negative forces and the welcoming of harmony, peace, and prosperity for the upcoming year. Performed by monks in elaborate masks and robes, the dance includes ritual movements, traditional musical instruments, and the ceremonial burning of effigies to represent purification of the old.",
+      "highlights": [
+        "Powerful Cham masked-dance performances by monks",
+        "Ritual burning of effigies to dispel negativity",
+        "Traditional monastic music",
+        "Blessing ceremonies",
+        "Colorful costumes and ancient choreography",
+        "Spiritual atmosphere marking the end of the Tibetan year"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292263/01img_r9vmbl.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292264/02Img_s6btyf.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292264/03Img_xywfwe.webp"
+      ],
+      "bookingAvailable": true,
+       "ticketPrice": 500
+    },
+    {
+      "monasteryId": "6926a7c2bed139586fbb2ac9",
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival",
+      "startDate": "1st day of the 1st Tibetan Month",
+      "endDate": "2nd or 3rd day of the 1st Tibetan Month",
+      "time": "Varies throughout the day",
+      "duration": "2–3 Days",
+      "location": "Rumtek Dharma Chakra Centre, Sikkim",
+      "description": "Losar at Rumtek Monastery marks the Tibetan New Year and begins with prayers, purification rituals, and traditional offerings to welcome harmony and good fortune. Monks perform special ceremonies, scripture recitations, and butter lamp rituals, creating a deeply festive and spiritual atmosphere.",
+      "highlights": [
+        "Special New Year prayers",
+        "Purification rituals and offerings",
+        "Butter lamp ceremonies",
+        "Traditional dances and performances",
+        "Community gatherings and blessings"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292266/06Img_zsugyw.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292266/0Img_cxslet.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292266/04Img_nibcua.webp"],
+       "ticketPrice": 400,
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7c2bed139586fbb2ac9",
+      "eventName": "Tse-Chu / Rumtek Chaam (Masked-Dance Ceremonies)",
+      "category": "ritual",
+      "startDate": "10th day of the 5th Tibetan Month",
+      "endDate": "10th day or 11th (varies)",
+      "time": "Morning to afternoon",
+      "duration": "1–2 Days",
+      "location": "Rumtek Dharma Chakra Centre, Sikkim",
+      "description": "Sacred masked-dance ceremony reenacting episodes from the life of Guru Padmasambhava. Symbolizes the triumph of wisdom over negativity with elaborate masks, costumes, and monastic music.",
+      "highlights": [
+        "Cham masked dances",
+        "Legends of Guru Padmasambhava",
+        "Traditional monastic instruments",
+        "Ritual choreography",
+        "Blessings and protection rituals"
+      ],
+       "ticketPrice": 500,
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292279/05tse_hqlbb8.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292279/03tse_uthukh.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292278/02tse_xwscm1.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7c2bed139586fbb2ac9",
+      "eventName": "Saga Dawa Observances",
+      "category": "ritual",
+      "startDate": "Full Moon of the 4th Tibetan Month",
+      "endDate": "Same day or extended",
+      "time": "Varies",
+      "duration": "1 Day (main observance)",
+      "location": "Rumtek Dharma Chakra Centre, Sikkim",
+      "description": "Saga Dawa commemorates the birth, enlightenment, and parinirvana of Lord Buddha. Monks perform special prayers, butter-lamp offerings, and merit-making rituals; devotees circumambulate and offer prayers.",
+      "highlights": [
+        "Special prayers and sutra recitations",
+        "Butter-lamp offerings",
+        "Monastic chanting",
+        "Pilgrim circumambulation",
+        "Acts of charity and compassion"
+      ],
+       "ticketPrice": "Not applicable",
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292276/saga4_jtqgcr.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292275/saga2_vxai1o.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292275/saga3_unbnbe.webp"
+      ],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7c2bed139586fbb2ac9",
+      "eventName": "Dungdrub Puja (Large-Scale Chanting Ritual)",
+      "category": "ritual",
+      "startDate": "4th Tibetan Month (varies)",
+      "endDate": "Multiple days (varies)",
+      "time": "Morning to evening",
+      "duration": "Multiple Days",
+      "location": "Rumtek Dharma Chakra Centre, Sikkim",
+      "description": "A large-scale chanting ceremony where monks recite thousands to millions of mantras for world peace and healing, creating a deeply meditative spiritual atmosphere.",
+      "highlights": [
+        "Continuous group mantra chanting",
+        "Ritual offerings and butter lamps",
+        "Meditative spiritual environment",
+        "Participation for devotees",
+        "Sacred instruments and melodies"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292269/dung3_emdu7u.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292268/dung1_xmj9gu.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292267/dung_j9mtmk.webp"],
+       "ticketPrice": "Not applicable",
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7c2bed139586fbb2ac9",
+      "eventName": "Vajrakilaya Drupchen (Tantric Drupchen Ceremony)",
+      "category": "ritual",
+      "startDate": "5th Tibetan Month",
+      "endDate": "7–10 days later",
+      "time": "Full-day sessions",
+      "duration": "7–10 Days",
+      "location": "Rumtek Dharma Chakra Centre, Sikkim",
+      "description": "A profound tantric ritual practice invoking Vajrakilaya for protection and purification. Includes extensive mantra recitations, mandala offerings, and sacred dances.",
+      "highlights": [
+        "Extended tantric ritual sessions",
+        "Mandala offerings and visualizations",
+        "Ritual music",
+        "Obstacle-clearing ceremonies",
+        "Sacred Cham dances"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292281/vraj4_xy5yrt.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292280/vraj3_odikwl.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292280/vraj_ordbp6.webp"],
+      "ticketPrice" : "",
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7c2bed139586fbb2ac9",
+      "eventName": "Mahakala Protector Festival / Lama Dance",
+      "category": "ritual",
+      "startDate": "27th–29th day of the 12th Tibetan Month",
+      "endDate": "29th day of the 12th Tibetan Month",
+      "time": "Morning to evening",
+      "duration": "2–3 Days",
+      "location": "Rumtek Dharma Chakra Centre, Sikkim",
+      "description": "Part of year-end purification rituals before Losar. Monks perform powerful protector practices dedicated to Mahakala with sacred dances, fire pujas, and ritual chants.",
+      "highlights": [
+        "Mahakala cham masked dances",
+        "Purification and protector rituals",
+        "Fire pujas and effigy burning",
+        "Traditional monastic instruments",
+        "Blessings for protection"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292274/mahak3_pkjwue.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292273/mahak2_rga8ka.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292272/mahak1_kshs8e.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a761bed139586fbb2ac3",
+      "eventName": "Detor Cham (Masked Dance Festival)",
+      "category": "festival",
+      "startDate": "18th day of the 12th Tibetan Lunar Month",
+      "endDate": "19th day of the 12th Tibetan Lunar Month",
+      "time": "Morning till afternoon",
+      "duration": "2 Days",
+      "location": "Enchey Monastery, Gangtok, Sikkim",
+      "description": "Detor Cham is the most important public festival of Enchey Monastery. Monks perform sacred masked dances that represent protector deities and symbolic cosmic figures, believed to dispel negative forces and purify the environment. The festival draws large crowds who witness elaborate masks, costumes and traditional ritual music.",
+      "highlights": [
+        "Elaborate Cham masked dances",
+        "Costumes representing deities and mythic beings",
+        "Ritual purification ceremonies",
+        "Traditional music with horns, drums & cymbals",
+        "Large public gathering",
+        "New Year blessing rituals"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292252/detor_erw7wg.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292251/detor1_lqzsgx.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292249/detor2_qumwni.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a761bed139586fbb2ac3",
+      "eventName": "Pang Lhabsol",
+      "category": "festival",
+      "startDate": "Varies (August–September, Sikkimese lunar calendar)",
+      "endDate": "Varies (1–2 days)",
+      "time": "Morning prayers, afternoon rituals, cultural programs",
+      "duration": "1–2 Days",
+      "location": "Enchey Monastery, Gangtok, Sikkim",
+      "description": "Pang Lhabsol honors Mt. Khangchendzonga, the protector deity of Sikkim. The festival symbolizes the historic brotherhood pact between Bhutia and Lepcha communities, expressing unity and cultural harmony. Monks perform ritual dances representing guardian deities, accompanied by chanting and ceremonial offerings.",
+      "highlights": [
+        "Ritual homage to Mt. Khangchendzonga",
+        "Commemoration of Bhutia–Lepcha brotherhood",
+        "Monastic dance rituals",
+        "Sacred offerings and prayer ceremonies",
+        "Traditional instruments and chanting",
+        "Community gathering with deep cultural significance",
+        "Devotees offering butter lamps"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292250/pang_kewzmb.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/pang2_i33cwr.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a761bed139586fbb2ac3",
+      "eventName": "Singhe Chaam (Singhe Cham)",
+      "category": "cultural",
+      "startDate": "Varies (once every 3 years)",
+      "endDate": "Same day or next day",
+      "time": "Morning to afternoon",
+      "duration": "1–2 Days",
+      "location": "Enchey Monastery, Gangtok, Sikkim",
+      "description": "Singhe Chaam is a rare sacred masked-dance ritual performed once every three years. Monks enact symbolic dances representing protective deities and mythological beings to symbolize the victory of good over evil and spiritual protection.",
+      "highlights": [
+        "Rare masked dance every 3 years",
+        "Elaborate deity and spirit masks",
+        "Ritual choreography with symbolic gestures",
+        "Monastic chanting and instrumental music",
+        "Blessings for protection and harmony",
+        "Preserves ancient Buddhist heritage"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/pang2_i33cwr.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/sing_svr10v.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a761bed139586fbb2ac3",
+      "eventName": "Losar / Losoong (New Year Observances)",
+      "category": "festival",
+      "startDate": "1st day of the 1st Tibetan Lunar Month / Sikkimese Losoong",
+      "endDate": "2–3 Days",
+      "time": "Morning prayers, rituals & Cham",
+      "duration": "2–3 Days",
+      "location": "Enchey Monastery, Gangtok, Sikkim",
+      "description": "Losar and Losoong mark Tibetan & Sikkimese New Year celebrations at Enchey Monastery, including sacred prayers, purification ceremonies, masked Cham dances, and butter-lamp offerings for blessings and prosperity.",
+      "highlights": [
+        "Sacred prayers and chanting",
+        "Butter-lamp and purification rituals",
+        "Masked Cham dances",
+        "Community celebration",
+        "Traditional music and offerings",
+        "Spiritual renewal and auspicious beginnings"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/sing_svr10v.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292250/losar2_abtqkz.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a761bed139586fbb2ac3",
+      "eventName": "Regular Monastic Pujas & Prayer Rituals",
+      "category": "ritual",
+      "startDate": "Throughout the year",
+      "endDate": "Ongoing",
+      "time": "Morning & evening",
+      "duration": "1–3 hours/session",
+      "location": "Enchey Monastery, Gangtok, Sikkim",
+      "description": "Daily and seasonal pujas include mantra chanting, scripture recitations, butter-lamp offerings and protective rituals performed by resident monks to maintain spiritual balance and bless the community.",
+      "highlights": [
+        "Daily and seasonal prayer sessions",
+        "Mantra chanting & scripture recitations",
+        "Butter-lamp offerings",
+        "Protective and purification rituals",
+        "Participation opportunities for visitors",
+        "Meditative and serene environment"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292247/regular_tkdfsl.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/regulat_n40yuh.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7e0bed139586fbb2acb",
+      "eventName": "Bumchu (Bhumchu) Festival",
+      "category": "festival",
+      "startDate": "14th–15th day of the 1st Tibetan Lunar Month",
+      "endDate": "Same day / community celebration 1–2 days",
+      "time": "Morning – vase opening ceremony, Afternoon – holy water distribution",
+      "duration": "1–2 Days",
+      "location": "Tashiding Monastery, West Sikkim, India",
+      "description": "Bumchu is the most important festival at Tashiding Monastery where a sacred vase of holy water is opened once a year. The water level is interpreted as a prophecy for the coming year, predicting peace, prosperity or difficulties. Monks perform ritual prayers and devotees receive holy water blessings.",
+      "highlights": [
+        "Opening of sacred holy-water vase",
+        "Yearly prophecy based on water level",
+        "Monastic chanting and ritual offerings",
+        "Distribution of holy water",
+        "Devotee circumambulation",
+        "Community gathering and celebrations"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292284/bhum_gnrypj.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292284/01a_eiiofd.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7e0bed139586fbb2acb",
+      "eventName": "Pang Lhabsol",
+      "category": "festival",
+      "startDate": "Varies — late summer / early autumn",
+      "endDate": "1–2 Days",
+      "time": "Morning rituals & afternoon masked dances",
+      "duration": "1–2 Days",
+      "location": "Tashiding Monastery, West Sikkim, India",
+      "description": "Pang Lhabsol honors Mount Kanchenjunga, protector deity of Sikkim, and celebrates the historic bond between Bhutia and Lepcha communities. Monks perform ritual dances and prayers invoking protection and blessings.",
+      "highlights": [
+        "Homage to Mount Kanchenjunga",
+        "Masked lama dances",
+        "Commemoration of Bhutia–Lepcha brotherhood",
+        "Monastic chanting and community offerings",
+        "Cultural celebrations"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292285/panj_m3mkqp.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7e0bed139586fbb2acb",
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival",
+      "startDate": "1st day of the 1st Tibetan Lunar Month",
+      "endDate": "2–3 Days",
+      "time": "Morning prayers, ritual offerings",
+      "duration": "2–3 Days",
+      "location": "Tashiding Monastery, West Sikkim, India",
+      "description": "Losar marks Tibetan New Year and includes purification prayers, butter lamp offerings, and rituals invoking protection and prosperity. Community gathers to celebrate blessings and harmony.",
+      "highlights": [
+        "Sacred prayers and chanting",
+        "Butter-lamp offerings",
+        "Circumambulation and community gathering",
+        "Blessings for peace and prosperity"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292297/lo2_fo7mnz.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292285/regu1_huh2qh.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "monasteryId": "6926a7e0bed139586fbb2acb",
+      "eventName": "Regular Monastic Pujas & Prayer Rituals",
+      "category": "ritual",
+      "startDate": "Throughout the year",
+      "endDate": "Ongoing",
+      "time": "Morning and evening sessions",
+      "duration": "1–3 hours per session",
+      "location": "Tashiding Monastery, West Sikkim, India",
+      "description": "Daily and seasonal pujas, mantra chanting, scripture recitations, and butter-lamp offerings are performed by monks for spiritual well-being and community protection.",
+      "highlights": [
+        "Daily and seasonal prayer sessions",
+        "Mantra chanting and scripture recitations",
+        "Butter-lamp offerings",
+        "Protective and purification rituals",
+        "Meditative monastic environment"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292285/lo1_vm259g.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292284/legu2_oixfuz.webp"],
+      "bookingAvailable": true
+    },
+    {
+      "eventName": "Cham / Chaam Masked-Dance Festival",
+      "category": "festival / ritual / cultural",
+      "startDate": "Varies — typically mid-year (Lunar Calendar)",
+      "endDate": "1–2 Days",
+      "time": "Morning to afternoon",
+      "duration": "1–2 Days",
+      "location": "Phodong Monastery, North Sikkim, India",
+      "description": "The Cham or Chaam masked-dance festival at Phodong Monastery is a spiritually significant event in which monks perform ritual dances wearing symbolic masks representing deities and mythic figures. The dances symbolize the triumph of good over evil and purification of negative energies.",
+      "highlights": [
+        "Monks wearing symbolic masks",
+        "Ritual dances representing deities and mythic beings",
+        "Traditional music with drums, horns, and cymbals",
+        "Purification rituals",
+        "Devotee offerings and prayers",
+        "Spiritual symbolism: triumph of good over evil",
+        "Community cultural gathering"
+      ],
+      "images": [
+       "https://res.cloudinary.com/djeospbqe/image/upload/v1764292260/phodo3_gus3yw.webp",
+       "https://res.cloudinary.com/djeospbqe/image/upload/v1764292259/phodo1_diycok.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a7a1bed139586fbb2ac7"
+    },
+    {
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival / ritual / cultural",
+      "startDate": "1st day of the 1st Tibetan Lunar Month",
+      "endDate": "2–3 Days",
+      "time": "Morning and afternoon prayers",
+      "duration": "2–3 Days",
+      "location": "Phodong Monastery, North Sikkim, India",
+      "description": "Losar marks the Tibetan New Year and is observed with prayers, chanting, ritual offerings and butter-lamp ceremonies led by monks. Devotees gather to pray for prosperity and peace for the coming year.",
+      "highlights": [
+        "Morning and evening prayers and chanting",
+        "Butter-lamp offering rituals",
+        "Monk blessings for prosperity",
+        "Community gatherings",
+        "Spiritual renewal for the New Year",
+        "Cultural and devotional atmosphere"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292265/s1_gqeeqt.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292261/s2_jlwmp9.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a7a1bed139586fbb2ac7"
+    },
+    {
+      "eventName": "Saga Dawa",
+      "category": "festival / ritual / cultural",
+      "startDate": "Full moon of 4th Tibetan lunar month",
+      "endDate": "1 Day",
+      "time": "Morning to evening prayers",
+      "duration": "1 Day",
+      "location": "Phodong Monastery, North Sikkim, India",
+      "description": "Saga Dawa commemorates the birth, enlightenment and parinirvana of Buddha. Devotees offer prayers, circumambulate the monastery and light butter lamps to accumulate spiritual merit.",
+      "highlights": [
+        "Monastic prayers and chanting",
+        "Merit-making rituals",
+        "Butter lamp lighting",
+        "Circumambulation",
+        "Commemoration of Buddha’s life events",
+        "Spiritual gathering of devotees"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292261/s2_jlwmp9.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292258/003_ozyjro.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a7a1bed139586fbb2ac7"
+    },
+
+    {
+      "eventName": "Losoong / Sikkimese New Year",
+      "category": "festival / ritual / cultural",
+      "startDate": "December (Sikkimese lunar calendar)",
+      "endDate": "1–2 Days",
+      "time": "Morning and afternoon",
+      "duration": "1–2 Days",
+      "location": "Phodong Monastery, North Sikkim, India",
+      "description": "Losoong marks the Sikkimese New Year and harvest celebration, featuring Chaam dances, rituals, prayers and music celebrating prosperity and unity.",
+      "highlights": [
+        "Masked Chaam dances",
+        "Monastic prayers",
+        "Offerings and circumambulation",
+        "Traditional music",
+        "Community celebration"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292259/l3_gcfctx.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292259/l2_vbufyr.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a7a1bed139586fbb2ac7"
+    },
+
+    {
+      "eventName": "Kagyed Dance (Year-End Masked Dance)",
+      "category": "festival / ritual / cultural",
+      "startDate": "28th–29th day of 10th Tibetan lunar month",
+      "endDate": "2 Days",
+      "time": "Morning to afternoon",
+      "duration": "2 Days",
+      "location": "Phodong Monastery, North Sikkim, India",
+      "description": "Kagyed Dance marks the cleansing of negative energies at year's end with symbolic masked dances and offerings, celebrating the triumph of good over evil.",
+      "highlights": [
+        "Ritual masked dances",
+        "Depictions of guardian deities",
+        "Traditional ritual music and chanting",
+        "Spiritual purification",
+        "Triumph of good over evil"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292258/002_n28nez.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292258/001_aqsiol.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a7a1bed139586fbb2ac7"
+    }
+ ,
+    {
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival / ritual / cultural",
+      "startDate": "1st day of the 1st Tibetan Lunar Month (usually February–March; varies yearly)",
+      "endDate": "2–3 Days",
+      "time": "Morning to evening prayers, rituals, and offerings",
+      "duration": "2–3 Days",
+      "location": "Dubdi Monastery, Yuksom, West Sikkim, India",
+      "description": "Losar at Dubdi Monastery is the most celebrated festival known from public sources. As one of the oldest monasteries in Sikkim, Dubdi observes Losar with ritual prayers, ceremonial offerings, and monastic chanting to usher in a new year filled with peace, prosperity, and spiritual merit. Devotees visit to circumambulate the monastery, light butter lamps, and participate in blessings from the resident monks. Though public documentation is limited, Losar is considered a period of spiritual renewal, community gathering, and preservation of centuries-old Buddhist traditions at Dubdi. The festival blends devotion, ritual, and cultural identity, highlighting the monastery’s historical significance as a center of Nyingma Buddhism.",
+      "highlights": [
+        "Ritual prayers and chanting led by resident monks",
+        "Lighting of butter lamps and offerings for spiritual merit",
+        "Circumambulation of the monastery by devotees",
+        "Community participation reinforcing spiritual and social bonds",
+        "Observance of the Tibetan lunar calendar traditions",
+        "Spiritual significance: protection, prosperity, and purification",
+        "Celebration of one of the oldest functioning monasteries in Sikkim",
+        "Preservation of Nyingma Buddhist heritage and cultural identity"
+      ],
+      "images": [
+       "https://res.cloudinary.com/djeospbqe/image/upload/v1764292245/dub1_gek2ra.webp",
+       "https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/dub3_dbiq0z.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a752bed139586fbb2ac2"
+    },
+    {
+      "eventName": "Year-End Ritual / Kagyed-style Observance",
+      "category": "festival / ritual / cultural",
+      "startDate": "28th–29th day of the 10th Tibetan Lunar Month (approximately November–December)",
+      "endDate": "2 Days",
+      "time": "Morning to afternoon ceremonial rituals",
+      "duration": "2 Days",
+      "location": "Dubdi Monastery, Yuksom, West Sikkim, India",
+      "description": "Dubdi Monastery, as per historical and heritage records, observes year-end rituals corresponding to the 28th–29th day of the 10th Tibetan month — similar in spirit to the Kagyed festivals of other Sikkimese monasteries. While public sources do not give detailed programs, these rituals traditionally involve monks performing symbolic offerings, prayers, and protective ceremonies to cleanse the monastery of negative energies and invoke blessings for the coming year. The event fosters spiritual renewal, moral reflection, and communal participation, emphasizing Dubdi’s heritage as one of the oldest centers of Nyingma Buddhist practice in Sikkim.",
+      "highlights": [
+        "Ritual prayers and offerings performed by monks",
+        "Symbolic purification of monastery grounds and community spaces",
+        "Spiritual blessings for protection, peace, and prosperity",
+        "Community engagement in spiritual and moral reflection",
+        "Year-end observance reinforcing the Tibetan Buddhist ritual calendar",
+        "Preservation of centuries-old Nyingma monastic traditions",
+        "Cultural continuity as one of Sikkim’s earliest monasteries"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/dub3_dbiq0z.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/dub2_trhmn8.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a752bed139586fbb2ac2"
+    },
+    {
+      "eventName": "Cham / Masked-Dance Rituals (Occasional)",
+      "category": "ritual / ceremony / cultural",
+      "startDate": "Varies — typically during major Tibetan/Buddhist festival periods",
+      "endDate": "1 Day (per ritual or event)",
+      "time": "Morning to afternoon",
+      "duration": "1 Day",
+      "location": "Dubdi Monastery, Yuksom, West Sikkim, India",
+      "description": "Dubdi Monastery may observe ritual masked dances (Cham) as part of its traditional Tibetan Buddhist ceremonies. While documentation is sparse, these events historically involve monks performing dances representing deities, spirits, and moral narratives to purify the monastery, drive away negative energies, and bless devotees. The rituals are rich in symbolism and often include chanting, musical accompaniment, and ceremonial offerings. These occasional performances showcase Dubdi’s monastic heritage, its role in the spiritual life of Yuksom, and its commitment to preserving ancient Nyingma traditions despite its small size and heritage-protected status.",
+      "highlights": [
+        "Monks performing symbolic masked dances",
+        "Representation of deities, spirits, and moral narratives",
+        "Ritual purification of monastery and surrounding area",
+        "Devotee participation and offerings",
+        "Traditional music accompaniment: drums, cymbals, and horns",
+        "Reinforcement of Buddhist ethical and spiritual teachings",
+        "Preservation of Nyingma monastic heritage and cultural identity",
+        "Occasional event highlighting the monastery’s historical significance"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292247/dub6_qkas2r.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292248/dub5_kfkosv.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable",
+      "monasteryId": "6926a752bed139586fbb2ac2"
+    },
+    {
+      "monasteryId": "6926a7d0bed139586fbb2aca",
+      "eventName": "Pilgrimage & Heritage Observance",
+      "category": "ritual / cultural / ceremony",
+      "startDate": "All year round",
+      "endDate": "Ongoing",
+      "time": "Morning to evening",
+      "duration": "Variable",
+      "location": "Sanga Choeling Monastery, Pelling, West Sikkim, India",
+      "description": "As one of the oldest monasteries in Sikkim (est. 17th century), Sanga Choeling Monastery serves as an active pilgrimage site and cultural heritage center. Devotees and tourists visit to perform worship, meditation, and offer prayers at ancient statues, murals, and clay idols. Pilgrimage and heritage observances often coincide with other Buddhist festivals, but are also ongoing throughout the year. These visits promote spiritual reflection, cultural appreciation, and continuity of the Nyingma monastic tradition.",
+      "highlights": [
+        "Worship and meditation at historical statues, clay idols, and murals",
+        "Devotee offerings and circumambulation",
+        "Observing monastic routines and prayers",
+        "Insight into 17th-century Himalayan Buddhist architecture",
+        "Continuity of Nyingma lineage spiritual practices",
+        "Cultural immersion in one of Sikkim’s oldest monasteries",
+        "Year-round opportunity for devotion and pilgrimage"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292281/sa1_fp8fue.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292281/sa2_p5tnma.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a7d0bed139586fbb2aca",
+      "eventName": "Chaam / Masked-Dance Festival (Speculative)",
+      "category": "festival / ritual / cultural",
+      "startDate": "festival / ritual / cultural",
+      "endDate": "Varies — likely during major Tibetan Buddhist festival periods",
+      "time": "1–2 Days",
+      "duration": "Morning to afternoon",
+      "location": "Sanga Choeling Monastery, Pelling, West Sikkim, India",
+      "description": "While exact documentation is scarce, Sanga Choeling Monastery is reported in travel guides to celebrate various Buddhist festivals, which may include the Chaam or masked-dance ritual. Monks perform dances representing deities, spirits, and moral narratives to purify the monastery, drive away negative energies, and bless devotees. The ritual combines chanting, music, and ceremonial offerings, showcasing the monastery’s rich spiritual heritage. This event is also a cultural highlight, allowing pilgrims and visitors to witness ancient Tibetan Buddhist practices in a preserved Himalayan setting.",
+      "highlights": [
+        "Serene Himalayan mountain setting enhances meditative experience",
+        "Opportunity for pilgrims to witness authentic monastic rituals",
+        "Preservation of Nyingma monastic heritage",
+        "Reinforcement of Tibetan Buddhist lunar calendar practices",
+        "Spiritual purification and merit-making",
+        "Circumambulation and offerings by devotees",
+        "Devotional prayers and hymns performed by monks"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292282/sa4_fjbfqy.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292282/sa3_f3qkzd.webp"
+      ],
+      "bookingAvailable": true
+      "ticketPrice": false
+    },
+    {
+      "monasteryId": "6926a7d0bed139586fbb2aca",
+      "eventName": "Monthly Prayer Ritual",
+      "category": "ritual / ceremony / cultural",
+      "startDate": "ritual / ceremony / cultural",
+      "endDate": "10th day of every Tibetan lunar month (dates vary each year)",
+      "time": "1 Day",
+      "duration": "Morning to afternoon",
+      "location": "Sanga Choeling Monastery, Pelling, West Sikkim, India",
+      "description": "The Monthly Prayer Ritual is a recurring observance at Sanga Choeling Monastery, where monks perform prayers, hymns, and devotional recitations according to the Tibetan lunar calendar. The ritual fosters spiritual reflection, purification, and renewal, and is considered highly meritorious by devotees.",
+      "highlights": [
+        "Serene Himalayan mountain setting enhances meditative experience",
+        "Spiritual purification and merit-making",
+        "Circumambulation and offerings by devotees",
+        "Devotional prayers and hymns performed by monks",
+        "Preservation of Nyingma monastic heritage"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292283/sa5_yvatzh.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292283/sa7_zxxq5i.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a793bed139586fbb2ac6",
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival / ritual / cultural",
+      "startDate": "1st day of 1st Tibetan Lunar Month (varies yearly)",
+      "endDate": "2–3 Days",
+      "time": "Morning to evening prayers and rituals",
+      "duration": "2–3 Days",
+      "location": "Labrang Monastery, [City/Village], Sikkim, India",
+      "description": "Losar is the Tibetan New Year festival, celebrated with prayers, rituals, and sometimes masked-dances (Cham). Devotees typically visit monasteries for circumambulation, offerings, and blessings from monks. At Labrang Monastery (to be verified), this festival would likely include communal rituals, chanting, and spiritual renewal, reflecting the rich heritage of Tibetan Buddhism.",
+      "highlights": [
+        "Ritual prayers and chanting",
+        "Lighting of butter lamps and offerings",
+        "Circumambulation by devotees",
+        "Spiritual purification and merit-making",
+        "Community gathering and cultural performances",
+        "Preservation of Nyingma/Gelugpa Buddhist traditions"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292283/sa6_vuw8ay.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292283/sa8_dgik66.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a793bed139586fbb2ac6",
+      "eventName": "Saga Dawa",
+      "category": "festival / ritual / cultural",
+      "startDate": "Full moon of the 4th Tibetan lunar month",
+      "endDate": "1 Day (some monasteries observe for multiple days)",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Labrang Monastery, [City/Village], Sikkim, India",
+      "description": "Saga Dawa commemorates Buddha’s birth, enlightenment, and parinirvana. Devotees and monks perform prayers, merit-making, and offer butter lamps. At Labrang Monastery (to be verified), it may include ritual ceremonies, blessings, and spiritual teachings to encourage moral reflection and communal participation.",
+      "highlights": [
+        "Lighting butter lamps for merit",
+        "Ritual prayers and chanting",
+        "Blessings from resident monks",
+        "Observance of Tibetan lunar calendar traditions",
+        "Spiritual reflection on Buddha’s life and teachings",
+        "Community participation"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292257/laq8_sxtv6p.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292257/laq7_dk4ljx.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292257/laq6_mofjbq.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a793bed139586fbb2ac6",
+      "eventName": "Kagyed Dance / Year-End Masked Dance",
+      "category": "festival / ritual / cultural",
+      "startDate": "28th–29th day of the 10th Tibetan month (around December)",
+      "endDate": "2 Days",
+      "time": "Morning to afternoon",
+      "duration": "2 Days",
+      "location": "Labrang Monastery, [City/Village], Sikkim, India",
+      "description": "The Kagyed Dance is a protective ritual performed at Tibetan Buddhist monasteries. Masked dances dramatize moral stories and the triumph of good over evil. At Labrang Monastery (to be verified), monks may perform these dances, accompanied by ritual music and chanting, to bless the monastery and the surrounding community for the coming year.",
+      "highlights": [
+        "Monks performing symbolic masked dances",
+        "Music with drums, cymbals, and horns",
+        "Ritual purification and protective ceremonies",
+        "Spiritual blessings for devotees",
+        "Cultural preservation of Tibetan Buddhist heritage"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292255/laq1_mcntzy.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292255/laq2_z52qga.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a793bed139586fbb2ac6",
+      "eventName": "Losoong",
+      "category": "festival / ritual / cultural",
+      "startDate": "End of the Tibetan year (varies)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Labrang Monastery, [City/Village], Sikkim, India",
+      "description": "Losoong marks the Sikkimese/Bhutia New Year and harvest celebration. Devotees may offer prayers, attend masked-dance performances, and participate in communal rituals. At Labrang Monastery (to be verified), this festival would likely combine spiritual observances with thanksgiving for a successful harvest, reinforcing social and religious bonds.",
+      "highlights": [
+        "Masked-dance (Cham) performances",
+        "Ritual offerings and prayers",
+        "Community feasts and gatherings",
+        "Harvest thanksgiving ceremonies",
+        "Preservation of local Buddhist culture and traditions"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292255/laq2_z52qga.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292256/laq5_nhks59.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a793bed139586fbb2ac6",
+      "eventName": "Pang Lhabsol",
+      "category": "festival / ritual / cultural",
+      "startDate": "Mid-year (approx. July/August; Sikkimese lunar calendar)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Labrang Monastery, [City/Village], Sikkim, India",
+      "description": "Pang Lhabsol is a Sikkimese festival venerating the guardian deity of the land (Mt. Khangchendzonga). Monks may perform ritual dances, prayers, and offerings. At Labrang Monastery (to be verified), this event could involve the local community and devotees, emphasizing spiritual protection, cultural heritage, and regional traditions.",
+      "highlights": [
+        "Veneration of local guardian deity",
+        "Masked-dance rituals and prayers",
+        "Community participation",
+        "Spiritual protection and blessings",
+        "Cultural preservation and heritage awareness"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292257/laq8_sxtv6p.webp",
+       "https://res.cloudinary.com/djeospbqe/image/upload/v1764292256/laq4_szjysu.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a7b3bed139586fbb2ac8",
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival / ritual / cultural",
+      "startDate": "1st day of 1st Tibetan Lunar Month (varies yearly)",
+      "endDate": "2–3 Days",
+      "time": "Morning to evening prayers and rituals",
+      "duration": "2–3 Days",
+      "location": "Rinchenpong Monastery, Rinchenpong, West Sikkim, India",
+      "description": "Losar is the Tibetan New Year festival, celebrated with prayers, rituals, and sometimes masked dances (Cham). Devotees typically visit monasteries for circumambulation, offerings, and blessings from monks. At Rinchenpong Monastery (to be verified), this festival would likely include communal rituals, chanting, and spiritual renewal, reflecting the rich heritage of Tibetan Buddhism and the significance of the Ati-Buddha statue housed there.",
+      "highlights": [
+        "Ritual prayers and chanting",
+        "Lighting of butter lamps and offerings",
+        "Circumambulation by devotees",
+        "Spiritual purification and merit-making",
+        "Community gathering and cultural performances",
+        "Preservation of Nyingma/Gelugpa Buddhist traditions"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292261/r3_xnhat7.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292261/r2_kervhx.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a7b3bed139586fbb2ac8",
+      "eventName": "Saga Dawa",
+      "category": "festival / ritual / cultural",
+      "startDate": "Full moon of the 4th Tibetan lunar month",
+      "endDate": "1 Day (some monasteries observe for multiple days)",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Rinchenpong Monastery, Rinchenpong, West Sikkim, India",
+      "description": "Saga Dawa commemorates Buddha’s birth, enlightenment, and parinirvana. Devotees and monks perform prayers, merit-making, and offer butter lamps. At Rinchenpong Monastery (to be verified), it may include ritual ceremonies, blessings, and spiritual teachings to encourage moral reflection and communal participation.",
+      "highlights": [
+        "Lighting butter lamps for merit",
+        "Ritual prayers and chanting",
+        "Blessings from resident monks",
+        "Observance of Tibetan lunar calendar traditions",
+        "Spiritual reflection on Buddha’s life and teachings",
+        "Community participation"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292262/r1_qh8x7d.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292262/r4_m1gssx.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a7b3bed139586fbb2ac8",
+      "eventName": "Kagyed Dance / Year-End Masked Dance",
+      "category": "festival / ritual / cultural",
+      "startDate": "28th–29th day of the 10th Tibetan month (around December)",
+      "endDate": "2 Days",
+      "time": "Morning to afternoon",
+      "duration": "2 Days",
+      "location": "Rinchenpong Monastery, Rinchenpong, West Sikkim, India",
+      "description": "The Kagyed Dance is a protective ritual performed at Tibetan Buddhist monasteries. Masked dances dramatize moral stories and the triumph of good over evil. At Rinchenpong Monastery (to be verified), monks may perform these dances, accompanied by ritual music and chanting, to bless the monastery and surrounding community for the coming year.",
+      "highlights": [
+        "Monks performing symbolic masked dances",
+        "Music with drums, cymbals, and horns",
+        "Ritual purification and protective ceremonies",
+        "Spiritual blessings for devotees",
+        "Cultural preservation of Tibetan Buddhist heritage"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292266/0Img_cxslet.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292276/s03_ubnbmt.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a7b3bed139586fbb2ac8",
+      "eventName": "Losoong",
+      "category": "festival / ritual / cultural",
+      "startDate": "End of the Tibetan year (varies)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Rinchenpong Monastery, Rinchenpong, West Sikkim, India",
+      "description": "Losoong marks the Sikkimese/Bhutia New Year and harvest celebration. Devotees may offer prayers, attend masked-dance performances, and participate in communal rituals. At Rinchenpong Monastery (to be verified), this festival would likely combine spiritual observances with thanksgiving for a successful harvest, reinforcing social and religious bonds.",
+      "highlights": [
+        "Masked-dance (Cham) performances",
+        "Ritual offerings and prayers",
+        "Community feasts and gatherings",
+        "Harvest thanksgiving ceremonies",
+        "Preservation of local Buddhist culture and traditions"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292278/s01_f7z17a.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292278/saga02_ylg9bw.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a7b3bed139586fbb2ac8",
+      "eventName": "Pang Lhabsol",
+      "category": "festival / ritual / cultural",
+      "startDate": "Mid-year (approx. July/August; Sikkimese lunar calendar)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Rinchenpong Monastery, Rinchenpong, West Sikkim, India",
+      "description": "Pang Lhabsol is a Sikkimese festival venerating the guardian deity of the land (Mt. Khangchendzonga). Monks may perform ritual dances, prayers, and offerings. At Rinchenpong Monastery (to be verified), this event could involve the local community and devotees, emphasizing spiritual protection, cultural heritage, and regional traditions.",
+      "highlights": [
+        "Veneration of local guardian deity",
+        "Masked-dance rituals and prayers",
+        "Community participation",
+        "Spiritual protection and blessings",
+        "Cultural preservation and heritage awareness"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292270/03losar_zssjnq.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292271/05losar_zx7s6p.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": "Not applicable"
+    },
+    {
+      "monasteryId": "6926a772bed139586fbb2ac4",
+      "eventName": "Cham / Masked‑Dance Festival (Gonjang)",
+      "category": "ritual / festival / cultural",
+      "startDate": "10th month of the Tibetan calendar (Exact Gregorian date varies yearly)",
+      "endDate": "1 day (or as per local monastic schedule)",
+      "time": "Morning to afternoon (approximate)",
+      "duration": "1 day (or part-day)",
+      "location": "Gonjang Monastery, Fatak Bojhogari, Gangtok, Sikkim",
+      "description": "Gonjang Monastery, a Nyingma‑lineage gompa near Gangtok, reportedly holds a Cham (masked‑dance) festival during the 10th Tibetan month. Monks don traditional masks and robes and perform ritual dances that dramatize Buddhist mythological stories — aiming to cleanse negative energies, express spiritual truths, and bless devotees and the wider community. The festival offers a rare opportunity for visitors and pilgrims to witness living Himalayan Buddhist culture in a serene setting, with the monastery’s peaceful ambience, prayer‑hall art, and panoramic views adding to the spiritual atmosphere.",
+      "highlights": [
+        "Traditional masked‑dance performances by resident monks",
+        "Ritual music: drums, horns, cymbals accompanying the dance https://www.daiwikhotels.com/about-gangtok/festivals-in-sikkim/?utm_source=chatgpt.com",
+        "Cultural and spiritual significance: purification, blessings, community‑ritual bonding",
+        "Opportunity for devotees / visitors to witness monastic tradition & participate in prayers/offering rituals",
+        "Scenic monastery location — easy access from Gangtok makes it visitor‑friendly"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292252/g6_pldbq1.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292251/g5_ne3zjw.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a772bed139586fbb2ac4",
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival / ritual / cultural",
+      "startDate": "1st day of 1st Tibetan Lunar Month (varies yearly)",
+      "endDate": "2–3 Days",
+      "time": "Morning to evening",
+      "duration": "2–3 Days",
+      "location": "Gonjang Monastery, Fatak Bojhogari, Gangtok, Sikkim",
+      "description": "Losar marks the Tibetan New Year, celebrated with prayers, offerings, and sometimes masked-dances (Cham). Monks and devotees participate in rituals aimed at spiritual purification, blessings, and communal harmony. At Gonjang Monastery (to be verified), Losar may include traditional chanting, circumambulation, and community prayers.",
+      "highlights": [
+        "Ritual prayers and chanting",
+        "Butter-lamp offerings",
+        "Circumambulation by devotees",
+        "Community gathering and cultural performances"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292251/g4_srqgyo.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292251/g3_sbabud.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a772bed139586fbb2ac4",
+      "eventName": "Saga Dawa",
+      "category": "festival / ritual / cultural",
+      "startDate": "Full moon of the 4th Tibetan lunar month",
+      "endDate": "1 Day (sometimes multiple days)",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Gonjang Monastery, Fatak Bojhogari, Gangtok, Sikkim",
+      "description": "Saga Dawa celebrates Buddha’s birth, enlightenment, and parinirvana. Devotees make offerings, light butter lamps, and participate in merit-making activities. At Gonjang Monastery (to be verified), it may include blessings by monks and prayer ceremonies.",
+      "highlights": [
+        "Lighting butter lamps",
+        "Ritual prayers and chanting",
+        "Spiritual reflection and merit-making",
+        "Community participation"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292249/g2_l1nvcr.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292248/g1_uepch9.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a772bed139586fbb2ac4",
+      "eventName": "Kagyed Dance / Year-End Masked Dance",
+      "category": "festival / ritual / cultural",
+      "startDate": "28th–29th day of the 10th Tibetan month (approx. December)",
+      "endDate": "2 Days",
+      "time": "Morning to afternoon",
+      "duration": "2 Days",
+      "location": "Gonjang Monastery, Fatak Bojhogari, Gangtok, Sikkim",
+      "description": "The Kagyed Dance is a protective ritual where monks perform symbolic masked dances depicting triumph of good over evil. At Gonjang Monastery (to be verified), it may include ritual music, chanting, and community blessings.",
+      "highlights": [
+        "Masked dance performances",
+        "Ritual music with drums, cymbals, horns",
+        "Spiritual protection and blessings",
+        "Cultural preservation of Tibetan-Buddhist heritage"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/pang2_i33cwr.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292250/pang_kewzmb.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a772bed139586fbb2ac4",
+      "eventName": "Losoong (Sikkimese / Bhutia New Year / Harvest Festival)",
+      "category": "festival / ritual / cultural",
+      "startDate": "End of the Tibetan year (varies)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Gonjang Monastery, Fatak Bojhogari, Gangtok, Sikkim",
+      "description": "Losoong is a harvest festival and Sikkimese/Bhutia New Year. Devotees may attend prayers, masked-dance performances, and community rituals. At Gonjang Monastery (to be verified), it may combine spiritual observances with thanksgiving for a successful harvest.",
+      "highlights": [
+        "Masked-dance performances",
+        "Ritual prayers and offerings",
+        "Community feasts and gatherings",
+        "Celebration of harvest and culture"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292246/regulat_n40yuh.webp",
+       "https://res.cloudinary.com/djeospbqe/image/upload/v1764292247/regular_tkdfsl.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a772bed139586fbb2ac4",
+      "eventName": "Pang Lhabsol (Guardian Deity Festival)",
+      "category": "festival / ritual / cultural",
+      "startDate": "Mid-year (approx. July/August; Sikkimese lunar calendar)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Gonjang Monastery, Fatak Bojhogari, Gangtok, Sikkim",
+      "description": "Pang Lhabsol venerates the guardian deity of Sikkim (Mt. Khangchendzonga). Ritual dances, prayers, and offerings are performed. At Gonjang Monastery (to be verified), it may involve monks and local devotees, emphasizing protection, blessings, and cultural heritage.",
+      "highlights": [
+        "Veneration of guardian deity",
+        "Masked-dance rituals",
+        "Community participation",
+        "Spiritual protection and blessings"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292251/detor1_lqzsgx.webp",
+      "https://res.cloudinary.com/djeospbqe/image/upload/v1764292252/detor_erw7wg.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    }
+ ,
+    {
+      "monasteryId": "6926a780bed139586fbb2ac5",
+      "eventName": "Losar (Tibetan New Year)",
+      "category": "festival / ritual / cultural",
+      "startDate": "1st day of 1st Tibetan Lunar Month (varies yearly)",
+      "endDate": "2–3 Days",
+      "time": "Morning to evening",
+      "duration": "2–3 Days",
+      "location": "Kewzing Monastery, Kewzing Village, South Sikkim",
+      "description": "Losar marks the Tibetan New Year, celebrated with prayers, offerings, and sometimes masked-dances (Cham). Monks and devotees participate in rituals aimed at spiritual purification, blessings, and communal harmony. At Kewzing Monastery (to be verified), Losar may include traditional chanting, circumambulation, and community prayers.",
+      "highlights": [
+        "Ritual prayers and chanting",
+        "Butter-lamp offerings",
+        "Circumambulation by devotees",
+        "Community gathering and cultural performances"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292254/k1_rffmny.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292254/k6_zdma0z.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a780bed139586fbb2ac5",
+      "eventName": "Saga Dawa",
+      "category": "festival / ritual / cultural",
+      "startDate": "Full moon of the 4th Tibetan lunar month",
+      "endDate": "1 Day (sometimes multiple days)",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Kewzing Monastery, Kewzing Village, South Sikkim",
+      "description": "Saga Dawa celebrates Buddha’s birth, enlightenment, and parinirvana. Devotees make offerings, light butter lamps, and participate in merit-making activities. At Kewzing Monastery (to be verified), it may include blessings by monks and prayer ceremonies.",
+      "highlights": [
+        "Lighting butter lamps",
+        "Ritual prayers and chanting",
+        "Spiritual reflection and merit-making",
+        "Community participation"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292254/k5_zrgolc.webp",
+       "https://res.cloudinary.com/djeospbqe/image/upload/v1764292252/k2_e8vnca.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a780bed139586fbb2ac5",
+      "eventName": "Kagyed Dance / Year-End Masked Dance",
+      "category": "festival / ritual / cultural",
+      "startDate": "28th–29th day of the 10th Tibetan month (approx. December)",
+      "endDate": "2 Days",
+      "time": "Morning to afternoon",
+      "duration": "2 Days",
+      "location": "Kewzing Monastery, Kewzing Village, South Sikkim",
+      "description": "The Kagyed Dance is a protective ritual where monks perform symbolic masked dances depicting triumph of good over evil. At Kewzing Monastery (to be verified), it may include ritual music, chanting, and community blessings.",
+      "highlights": [
+        "Masked dance performances",
+        "Ritual music with drums, cymbals, horns",
+        "Spiritual protection and blessings",
+        "Cultural preservation of Tibetan-Buddhist heritage"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292253/k3_mbziba.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292253/k4_usgruo.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a780bed139586fbb2ac5",
+      "eventName": "Losoong (Sikkimese / Bhutia New Year / Harvest Festival)",
+      "category": "festival / ritual / cultural",
+      "startDate": "End of the Tibetan year (varies)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Kewzing Monastery, Kewzing Village, South Sikkim",
+      "description": "Losoong is a harvest festival and Sikkimese/Bhutia New Year. Devotees may attend prayers, masked-dance performances, and community rituals. At Kewzing Monastery (to be verified), it may combine spiritual observances with thanksgiving for a successful harvest.",
+      "highlights": [
+        "Masked-dance performances",
+        "Ritual prayers and offerings",
+        "Community feasts and gatherings",
+        "Celebration of harvest and culture"
+      ],
+      "images": ["https://res.cloudinary.com/djeospbqe/image/upload/v1764292261/r2_kervhx.webp","https://res.cloudinary.com/djeospbqe/image/upload/v1764292262/r1_qh8x7d.webp"],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    },
+    {
+      "monasteryId": "6926a780bed139586fbb2ac5",
+      "eventName": "Pang Lhabsol (Guardian Deity Festival)",
+      "category": "festival / ritual / cultural",
+      "startDate": "Mid-year (approx. July/August; Sikkimese lunar calendar)",
+      "endDate": "1–2 Days",
+      "time": "Morning to evening",
+      "duration": "1–2 Days",
+      "location": "Kewzing Monastery, Kewzing Village, South Sikkim",
+      "description": "Pang Lhabsol venerates the guardian deity of Sikkim (Mt. Khangchendzonga). Ritual dances, prayers, and offerings are performed. At Kewzing Monastery (to be verified), it may involve monks and local devotees, emphasizing protection, blessings, and cultural heritage.",
+      "highlights": [
+        "Veneration of guardian deity",
+        "Masked-dance rituals",
+        "Community participation",
+        "Spiritual protection and blessings"
+      ],
+      "images": [
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292261/r3_xnhat7.webp",
+        "https://res.cloudinary.com/djeospbqe/image/upload/v1764292262/r4_m1gssx.webp"
+      ],
+      "bookingAvailable": true,
+      "ticketPrice": null
+    }
+  ]
